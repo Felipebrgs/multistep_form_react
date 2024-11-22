@@ -1,8 +1,5 @@
-# React + Vite
+# Formulário de Avaliação 📋✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um **formulário de avaliação** cujo principal recurso é ser um **formulário multistep**. Isso significa que é um formulário com múltiplas etapas, onde é possível avançar ⏩ e voltar ⏪, mantendo os dados preenchidos até o momento.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto foi feito para me aprofundar mais no **React puro** ⚛️ e praticar mais os **hooks**!
